@@ -1,7 +1,9 @@
-- Hey I am Amey Mahadik.
-- I am a researcher, currently active in AI and IoT.
-- Rather than being a follower, I would prefer being an innovator. 
-- For any Collaborations / Jobs please find me on LinkdIn or ping me on Gitter.
+# Amey Ramray Mahadik
+
+## Current Status:
+Working in BOSCH as a Master Thesis student. 
+Master Thesis topic: Investigation of Audio Data Loop Pipelines with Azure DevOps
+
 
 [Amey Mahadik - LinkdIn](https://www.linkedin.com/in/amey-mahadik-115285167/)
 [Amey Mahadik - Gitter](https://www.gitter.im)
